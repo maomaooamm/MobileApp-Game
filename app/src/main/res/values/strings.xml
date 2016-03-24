@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">p6Hanye_W</string>
+
+    <string name="txtkey">Play Ball!!!</string>
+    <string name="txtguess"></string>
+    <string name="txtresult"></string>
+    <string name="ball"></string>
+    <string name="strike"></string>
+    <string name="btnnew">New Game</string>
+    <string name="btnclear">Clear</string>
+    <string name="btnhint">Show Hints</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_guess_hint">GuessHintActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
